@@ -1,0 +1,28 @@
+name: TobaccoRouge
+favicon: null
+layout_spectrum: 0.3707072196993977
+typography_spectrum: 0.9484984525479376
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7940282220952213
+  lightness: 0.42127757822163403
+  saturation: 0.9903187642339617
+  rhythmicContrast: 0.0643119269516319
+purpose: []
