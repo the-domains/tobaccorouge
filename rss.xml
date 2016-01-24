@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TobaccoRouge]]></title>
+        <description><![CDATA[TobaccoRouge]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jan 2016 15:52:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WHERE DID IT COME FROM]]></title>
+            <description><![CDATA[<article><h1>WHERE DID IT COME FROM</h1><p>Self-confidence Versus Self-knowledge, Which one you rather be?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49722138e0eea585a681c4db6c5581a60295424f.jpg"></article>]]></description>
+            <link>undefinedwhere-did-it-come-from/index.html</link>
+            <guid isPermaLink="false">7c1384c1-37bf-42b0-aecc-f062c8051741</guid>
+            <pubDate>Sun, 24 Jan 2016 15:52:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
